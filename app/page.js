@@ -41,8 +41,8 @@ export default function Home() {
               Poslední velké <em>atmosférické</em> V8.
             </h1>
             <p className="hero-sub">
-              6 208 cm³, ručně stavěný osmiválec a výfuk Innotech. Žádné turbo, žádný zvuk
-              z reproduktorů. Na víkend v Praze.
+              6 208 cm³, ručně stavěný osmiválec a kompletní výfuky Innotech. Pořádná atmosféra
+              a brutální zvuk. Zažítek, který v nových autech už nezažijete.. 
             </p>
             <div className="cta-row">
               <a className="btn btn-red" href="#rezervace">Rezervovat termín</a>
