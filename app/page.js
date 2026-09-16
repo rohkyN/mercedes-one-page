@@ -96,8 +96,8 @@ export default function Home() {
               </p>
               <p>
                 Nepůjčujeme flotilu. Půjčujeme <strong>jedno konkrétní auto</strong>, o které se
-                staráme, a předáváme ho osobně. Na víkend, na svatbu, na focení, na splnění staré
-                chuti — nebo prostě proto, že za pět let už podobné auto legálně nikde nenajdete.
+                staráme a předáváme ho osobně. Na víkend, na svatbu, na focení, na splnění dávného
+                snu, nebo prostě proto, že možná už za pár let budou tyhle auta zakázaný..
               </p>
             </div>
             <aside>
@@ -136,8 +136,7 @@ export default function Home() {
                  alt="Detail kola a červeného brzdového třmenu AMG" />
           </div>
           <p className="footnote">
-            Údaje odpovídají sériové specifikaci Edition 507. Konkrétní rok výroby, stav tachometru
-            a výbavu tohoto vozu potvrzujeme písemně při rezervaci.
+            Údaje odpovídají specifikaci Edition 507.
           </p>
         </div>
       </section>
@@ -150,7 +149,7 @@ export default function Home() {
           </div>
           <p className="lede" style={{ marginBottom: "clamp(28px,3.4vw,44px)" }}>
             Ceny jsou konečné, včetně povinného ručení, havarijního pojištění, dálniční známky
-            a předání vozu v Praze. Bez skrytých položek.
+            a předání vozu v Praze a okolí. Bez skrytých položek.
           </p>
 
           <div className="price-table">
@@ -254,7 +253,7 @@ export default function Home() {
           <div className="book">
             <div className="contact-side">
               <p className="lede">
-                Napište nám termín a ozveme se do dvou hodin s potvrzením dostupnosti a shrnutím
+                Napište nám termín a ozveme se s potvrzením dostupnosti a shrnutím
                 ceny. Rezervace je závazná až po zaplacení zálohy.
               </p>
               <div>
