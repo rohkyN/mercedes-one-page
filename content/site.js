@@ -56,7 +56,7 @@ export const gauges = [
 
 export const pricing = [
   { t: "12 hodin", k: "100 km v ceně", p: "4 900 Kč" },
-  { t: "1 den · 24 hodin", k: "150 km v ceně", p: "5 990 Kč" },
+  { t: "1 den · 24 hodin", k: "150 km v ceně", p: "7 990 Kč" },
   { t: "Víkend", k: "Pátek 16:00 – neděle 18:00 · 400 km v ceně", p: "14 900 Kč", hot: true, tag: "NEJŽÁDANĚJŠÍ" },
   { t: "3–6 dní", k: "150 km / den v ceně", p: "5 490 Kč / den" },
   { t: "Týden", k: "1 200 km v ceně", p: "34 900 Kč" },
