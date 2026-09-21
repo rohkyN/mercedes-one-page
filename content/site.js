@@ -7,9 +7,7 @@ export const company = {
   name: "TerraCore s.r.o.",
   address: "č. ev. 18, 251 64 Klokočná",
   ico: "24465950",
-  dic: "CZ24465950",              // TODO: ověřit, zda je firma plátcem DPH
-  court: "Městský soud v Praze",  // TODO: doplnit spisovou značku (C xxxxx)
-  fileNo: "C 000000",             // TODO
+  dic: "CZ24465950",              // TODO: ověřit, zda je firma plátcem DPH          // TODO
   phone: "+420 724 658 065",      // TODO
 
   email: "info@c63507.cz",   // TODO: potvrdit, že tato adresa existuje
