@@ -13,9 +13,6 @@ export default function Footer() {
               {company.address}
               <br />
               IČO: {company.ico} · DIČ: {company.dic}
-              <br />
-              Zapsáno v obchodním rejstříku vedeném {company.court}, oddíl C, vložka{" "}
-              {company.fileNo.replace("C ", "")}.
             </p>
           </div>
           <div>
