@@ -10,8 +10,6 @@ export const company = {
   dic: "CZ24465950",              // TODO: ověřit, zda je firma plátcem DPH
   phone: "+420 724 658 065",
   phoneHref: "+420724658065",
-  court: "Městský soud v Praze",
-  fileNo: "C 441455",
   email: "info@c63507.cz",   // TODO: potvrdit, že tato adresa existuje
   city: "Praha",
   hours: "denně 8:00–20:00",
