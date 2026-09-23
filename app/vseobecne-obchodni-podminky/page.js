@@ -36,7 +36,7 @@ export default function Page() {
         </li>
         <li>
           Vozidlo smí řídit výhradně osoba uvedená v nájemní smlouvě. Zápis druhého řidiče je možný
-          za poplatek 500 Kč, pokud splňuje stejné podmínky.
+          za poplatek 2 000 Kč, pokud splňuje stejné podmínky.
         </li>
         <li>
           Pronajímatel si vyhrazuje právo uzavření nájemní smlouvy odmítnout bez udání důvodu,
@@ -72,7 +72,7 @@ export default function Page() {
         nejpozději při předání vozidla.
       </p>
       <ul>
-        <li>Vratná kauce činí <b>25 000 Kč</b> a skládá se před předáním vozidla, převodem nebo blokací na platební kartě.</li>
+        <li>Vratná kauce činí <b>35 000 Kč</b> a skládá se před předáním vozidla, převodem nebo blokací na platební kartě.</li>
         <li>Kauce slouží k zajištění pohledávek pronajímatele, zejména spoluúčasti na pojistném plnění, doplatku za kilometry, palivo, pokuty a smluvní pokuty.</li>
         <li>Kauce se vrací do 3 pracovních dnů od vrácení vozidla, není-li zjištěno nové poškození nebo nedoplatek. V případě řešení pojistné události se vrací po jejím uzavření.</li>
       </ul>
@@ -126,14 +126,14 @@ export default function Page() {
         <thead><tr><th>Položka</th><th>Částka</th></tr></thead>
         <tbody>
           <tr><td>Kouření ve vozidle nebo přeprava zvířat</td><td>5 000 Kč</td></tr>
-          <tr><td>Silné znečištění interiéru</td><td>1 000 – 3 000 Kč</td></tr>
+          <tr><td>Silné znečištění interiéru</td><td>3 000 Kč</td></tr>
           <tr><td>Ztráta klíče</td><td>15 000 Kč</td></tr>
           <tr><td>Ztráta osvědčení o registraci vozidla nebo dokladů</td><td>10 000 Kč</td></tr>
           <tr><td>Natankování nesprávného paliva</td><td>20 000 Kč + oprava</td></tr>
           <tr><td>Neohlášený výjezd do zahraničí</td><td>10 000 Kč</td></tr>
           <tr><td>Předání vozidla neoprávněné osobě</td><td>15 000 Kč</td></tr>
           <tr><td>Pozdní vrácení (za každou započatou hodinu)</td><td>500 Kč</td></tr>
-          <tr><td>Administrace dopravního přestupku</td><td>500 Kč + výše pokuty</td></tr>
+          <tr><td>Administrace dopravního přestupku</td><td>1 000 Kč + výše pokuty</td></tr>
           <tr><td>Nevrácení vozidla ve sjednaném termínu (za každý den)</td><td>nájemné + 50 %</td></tr>
         </tbody>
       </table>
