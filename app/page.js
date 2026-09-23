@@ -148,7 +148,7 @@ export default function Home() {
             <h2>Ceník</h2>
           </div>
           <p className="lede" style={{ marginBottom: "clamp(28px,3.4vw,44px)" }}>
-            Ceny jsou konečné, včetně povinného ručení, havarijního pojištění, dálniční známky
+            Ceny jsou konečné, včetně DPH, povinného ručení, havarijního pojištění, dálniční známky
             a předání vozu v Praze a okolí. Bez skrytých položek.
           </p>
 
