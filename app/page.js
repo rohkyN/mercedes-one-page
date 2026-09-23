@@ -77,19 +77,19 @@ export default function Home() {
               <p>
                 <strong>Tohle už se nevyrábí a vyrábět nebude.</strong> M156 byl první motor, který
                 si AMG postavilo samo od nuly — šest a dva litry, osm válců, žádné turbo, žádný
-                elektrický kompresor. Dnešní C&nbsp;63 má dvoulitrový čtyřválec s hybridem. AMG GT,
-                BMW M, Porsche: všechno přeplňované, přefiltrované, s dozvučením ze zvukové
+                elektrický kompresor. Dnešní C&nbsp;63 má dvoulitrový čtyřválec s hybridem. AMG,
+                BMW M, Audi RS: všechno přeplňované, přefiltrované, s dozvučením ze zvukové
                 aparatury.
               </p>
               <p>
                 Edition 507 byla rozlučka. Nejostřejší verze C&nbsp;63 na platformě W204: kované
                 ojnice a písty z SLS AMG, vodní chlazení z Black Series, snížený podvozek, 507 koní
-                z čistě atmosférického osmiválce, který jde do otáček tak, jak dnes už žádný sériový
-                motor nejde.
+                z čistě atmosférického osmiválce, který jde do otáček tak, jak dnes už prakticky žádný
+                sériový motor nejde.
               </p>
               <p className="pull">Nové AMG je rychlejší. Tohle je zážitek.</p>
               <p>
-                K tomu <strong>výfukový systém Innotech</strong> — jediný důvod, proč si spousta lidí
+                K tomu <strong>výfukový systém Innotech</strong> — důvod, proč si spousta lidí
                 tenhle vůz půjčí. Studený start v podzemní garáži. Prásknutí při podřazení v tunelu.
                 Zvuk, který slyšíte o dvě ulice dál a který se z videa na telefonu prostě přenést
                 nedá.
