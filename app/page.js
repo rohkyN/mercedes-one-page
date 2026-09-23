@@ -46,7 +46,7 @@ export default function Home() {
             </p>
             <div className="cta-row">
               <a className="btn btn-red" href="#rezervace">Rezervovat termín</a>
-              <a className="btn" href="#cenik">Ceník od 4&nbsp;900&nbsp;Kč</a>
+              <a className="btn" href="#cenik">Ceník od 7&nbsp;260&nbsp;Kč</a>
             </div>
           </div>
         </div>
