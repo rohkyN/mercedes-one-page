@@ -12,7 +12,7 @@ export const company = {
   phoneHref: "+420724658065",
   email: "info@c63507.cz",   // TODO: potvrdit, že tato adresa existuje
   city: "Praha",
-  hours: "denně 8:00–20:00",
+  hours: "denně 9:00–18:00",
   domain: "c63507.cz",
 };
 
@@ -36,7 +36,7 @@ export const specs = [
 ];
 
 export const specs2 = [
-  ["Nejvyšší rychlost", "250 km/h", "omezeno"],
+  ["Nejvyšší rychlost", "280 km/h", "omezeno"],
   ["Výfuk", "Innotech", "nesériový"],
   ["Karoserie", "kupé, 4 místa"],
   ["Palivo", "benzin 98"],
